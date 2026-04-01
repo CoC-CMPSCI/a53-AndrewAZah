@@ -17,5 +17,5 @@ int main()
             sum += i;
         }
     }
-    cout << "Sum of even values: " << sum << endl;
+    cout << "The sum of even values is " << sum << endl;
 }
